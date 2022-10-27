@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="/src/images/logo.png" alt="Logo" width="300" height="300">
+<img src="/src/images/logo.png" alt="Logo" width="600" height="600">
 
 This Project is basically a chart app without a backend but makes use of the browser local Storage to store user data. You can start chating by creating different tabs on your browser, create different users and send a message. Changes we actomatically be showned when a message is sent. 
 
